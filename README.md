@@ -7,6 +7,7 @@
 
 ### [@SrGoes](https://github.com/SrGoes) - Back-end, DBA <br>
 ### [@GustavoJoia](https://github.com/GustavoJoia) - Back-end <br>
+### [@KarinaYumi](https://github.com/KarinaYumi) - Front-end
 ### [@lorenaaraujoo](https://github.com/lorenaaraujoo) - Back-end <br>
 ### [@luanagbrm](https://github.com/luanagbrm) - Front-end
 
